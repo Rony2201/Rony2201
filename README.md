@@ -1,4 +1,4 @@
-## Olá meu nome é Rony e sou estudante e desenvolvedor de software
+## Olá sou Rony e sou estudante e desenvolvedor de software
 <div align="center">
   <a href="https://github.com/Rony2201">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rony2201&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
