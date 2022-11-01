@@ -13,9 +13,7 @@
   <img align="center" alt="Rony-Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Rony-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
           
-  <img align="right" alt="Rony-pic" height="150" style="border-radius:50px;" src=https://www.icegif.com/wp-content/uploads/2021/10/icegif-1910.gif">
-</div>
-  
+ 
  ##
   
 <div>
