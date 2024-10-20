@@ -12,7 +12,7 @@
   <img align="center" alt="Rony-Java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Rony-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Rony-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-          
+  <img align="center" alt="Rony-C#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
           
  
  ##
